@@ -18,7 +18,7 @@ botones de llamada e indicadores de dirección y piso actual.
 - Obtener Codigo.
 
     ```
-    git clone https://github.com/EloySalzar/AscensorSimulator.git
+    git clone https://github.com/EloySalazar/AscensorSimulator.git
     ```
 - Ejecutar la App.
 
