@@ -1,4 +1,4 @@
-# Asensor Simulator
+# Ascensor Simulator
 Simulador interactivo de ascensor desarrollado en Java/Swing que visualiza el movimiento de un ascensor entre 3 pisos.
 Implementa una lógica de control con cola de destinos y una interfaz gráfica con animación que incluye un slider vertical, 
 botones de llamada e indicadores de dirección y piso actual.
