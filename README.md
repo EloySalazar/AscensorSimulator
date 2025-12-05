@@ -3,6 +3,8 @@ Simulador interactivo de ascensor desarrollado en Java/Swing que visualiza el mo
 Implementa una lógica de control con cola de destinos y una interfaz gráfica con animación que incluye un slider vertical, 
 botones de llamada e indicadores de dirección y piso actual.
 
+![AscensorSimulator](https://github.com/user-attachments/assets/599eb13b-4a74-48ff-9e45-87ea9109c824)
+
 ## Built with
 - JDK 24
 
